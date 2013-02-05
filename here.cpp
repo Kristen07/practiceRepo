@@ -1,4 +1,3 @@
-What a nice day
 #include <iostream>
 #include <vector>
 #include <sstream>
